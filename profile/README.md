@@ -14,6 +14,7 @@ We serve retail pharmacy, semiconductor inspection, and smart service robotics, 
 | :-----------------: | :--------------------------------------------------------  |
 |    Mobile chasis    | https://github.com/Mountain-View-Robotics/ugv_sdk          |
 |    Mobile chasis    | https://github.com/Mountain-View-Robotics/ranger_ros2      |
+|    Mobile chasis    | https://github.com/Mountain-View-Robotics/ugv_gazebo_sim   |
 |    TArm             | https://github.com/Mountain-View-Robotics/tl_robot_ros2    |
 |    RArm             | https://github.com/Mountain-View-Robotics/ros2_rm_robot    |
 |    Slidar           | https://github.com/Mountain-View-Robotics/sllidar_ros2     |
