@@ -11,7 +11,7 @@ We serve retail pharmacy, semiconductor inspection, and smart service robotics, 
 <img width="270" height="80" alt="image" src="https://github.com/user-attachments/assets/91ece65a-d0fa-4d71-b7fc-678320b69929" />
 
 |        Robot        | Link                                                       | 
-| :-----------------: | :--------------------------------------------------------: |
+| :-----------------: | :--------------------------------------------------------  |
 |    Mobile chasis    | https://github.com/Mountain-View-Robotics/ugv_sdk          |
 |    Mobile chasis    | https://github.com/Mountain-View-Robotics/ranger_ros2      |
 |    TArm             | https://github.com/Mountain-View-Robotics/tl_robot_ros2    |
